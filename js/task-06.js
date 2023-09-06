@@ -9,6 +9,5 @@ function lengthValidation(event) {
     } else {
         inputField.classList.add('invalid')
         inputField.classList.remove('valid')
-
     }
 }
